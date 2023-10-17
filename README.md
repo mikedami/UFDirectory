@@ -1,4 +1,8 @@
-# UFDirectory
-React App, connecting to a database of information. Simple UI/UX allowing users to add buildings, view and search the list, and add or remove buildings themselves.
+# React + Vite
 
-Fully built within React Utilizing Vite. Outside resources used like FontAwesome and Bootstrap CSS.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
