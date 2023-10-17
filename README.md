@@ -1,3 +1,16 @@
+# UF Directory
+
+This is a simple directory search app looking through logged UF buildings. The app has implementation for searching, adding, removing, and customizing buildings in the data log. 
+
+Utilizing outside frameworks such as React, Vite, Bootstrap, and FontAwesome.
+
+
+
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
